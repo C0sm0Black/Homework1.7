@@ -6,6 +6,28 @@ public class Homework {
         task2();
         task3();
         task4();
+        task5();
+
+    }
+
+    private static void task5() {
+
+        System.out.println("Задача 5");
+
+        double total = 15_000;
+        int month = 1;
+
+        while (total <= 12_000_000) {
+
+            total = total + total * 0.07;
+
+            if (month % 6 == 0) {
+                System.out.println("Месяц " + month + ", сумма накоплений " + String.format("%.2f", total));
+            }
+
+            month++;
+
+        }
 
     }
 
