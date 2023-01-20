@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f1abb15-9e54-4b77-bc2b-2422d2128556" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework1.7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
+    <list default="true" id="3f1abb15-9e54-4b77-bc2b-2422d2128556" name="Changes" comment="Task 7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +15,13 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="homework_task_7" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -39,6 +41,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework" />
+      <module name="Homework1.7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,11 +63,87 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674224244426</updated>
-      <workItem from="1674224245558" duration="396000" />
+      <workItem from="1674224245558" duration="6021000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1674224815189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674224815189</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task 1">
+      <created>1674225453707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674225453707</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task 2">
+      <created>1674225749590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674225749590</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task 3">
+      <created>1674227385867</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674227385867</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task 4">
+      <created>1674228240506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674228240506</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task 4 (correction)">
+      <created>1674228346592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674228346592</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 5">
+      <created>1674228535242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674228535242</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 6">
+      <created>1674228948979</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674228948979</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task 7">
+      <created>1674230475485</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674230475485</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Task 1" />
+    <MESSAGE value="Task 2" />
+    <MESSAGE value="Task 3" />
+    <MESSAGE value="Task 4" />
+    <MESSAGE value="Task 4 (correction)" />
+    <MESSAGE value="Task 5" />
+    <MESSAGE value="Task 6" />
+    <MESSAGE value="Task 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 7" />
   </component>
 </project>
