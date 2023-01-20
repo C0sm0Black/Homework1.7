@@ -8,6 +8,24 @@ public class Homework {
         task4();
         task5();
         task6();
+        task7();
+
+    }
+
+    private static void task7() {
+
+        System.out.println("Задча 7");
+
+        int numberFriday = 6;
+
+        for (int i = 1; i <= 31; i++) {
+
+            if (numberFriday == i) {
+                System.out.println("Сегодня пятница, " + i + "-е число. Необходимо подготовить отчет");
+                numberFriday = numberFriday + 7;
+            }
+
+        }
 
     }
 
