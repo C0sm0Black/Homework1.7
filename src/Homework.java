@@ -9,6 +9,24 @@ public class Homework {
         task5();
         task6();
         task7();
+        task8();
+
+    }
+
+    private static void task8() {
+
+        System.out.println("Задача 8");
+
+        int year1 = 1823;
+        int year2 = 2123;
+
+        for (int i = year1; i <= year2; i++) {
+
+            if (i % 79 == 0) {
+                System.out.println(i);
+            }
+
+        }
 
     }
 
