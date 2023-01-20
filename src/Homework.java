@@ -18,7 +18,7 @@ public class Homework {
 
         while (total <= 12_000_000) {
 
-            total = total + total * 0.7;
+            total = total + total * 0.07;
 
             System.out.println("Месяц " + month + ", сумма накоплений " + String.format("%.2f", total));
 
