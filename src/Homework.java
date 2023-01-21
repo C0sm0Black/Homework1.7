@@ -15,16 +15,16 @@ public class Homework {
         int population = 12_000_000;
         int fertility, mortality, i;
 
-        for (i = 0; i <= 9; i++) {
+        for (i = 1; i <= 10; i++) {
 
             fertility = (population / 1000) * 17;
             mortality = (population / 1000) * 8;
 
             population = population + fertility - mortality;
 
-        }
+            System.out.println("Год " + i + ", численность населения составляет " + population);
 
-        System.out.println("Год " + i + ", численность населения составляет " + population);
+        }
 
     }
 
